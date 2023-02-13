@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-        "@cemalgnlts/mailjs": "^2.0.2",
-        "puppeteer": "^19.7.0"
+    "@cemalgnlts/mailjs": "^2.0.2"
+  },
+  "devDependencies": {
+    "zombie": "^6.1.4"
   }
 }
